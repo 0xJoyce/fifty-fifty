@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+#container_one, #container_two {
+  width: 400px; /* Adjust the width as needed */
+  height: 400px; /* Adjust the height as needed */
+  float: left; /* Float the containers next to each other */
+  margin-right: 10px; /* Add some spacing between the containers */
+}
